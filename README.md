@@ -6,8 +6,11 @@ OrderUp makes ordering by dollar amount easy. Given a price and a menu, OrderUp 
 
 ### Menu file
 All menu items should be seperated by line.
+
 Menu format should be Name, Price. ex:
+
 Artisinal Grapes, $49.00
+
 Lemon Bar, $7.50
 
 ### Run it
