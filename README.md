@@ -14,19 +14,19 @@ Artisinal Grapes, $49.00
 Lemon Bar, $7.50
 
 ### Run it
-1) Clone or download the repository to your local machine.
-2) In your terminal open the order_up folder
-3) Add your menu file to folder (.txt or .csv)
-4) Type "ruby runner.rb" to run the program
+1. Clone or download the repository to your local machine.
+2. In your terminal open the order_up folder
+3. Add your menu file to folder (.txt or .csv)
+4. Type "ruby runner.rb" to run the program
 
 
 
 ## Running the tests
 
-1) Clone or download the repository to your local machine.
-2) In your terminal open the order_up folder
-3) Add your own or use existing test_menu.txt
-4) Type "rspec rspec.rb" to run the tests
+1. Clone or download the repository to your local machine.
+2. In your terminal open the order_up folder
+3. Add your own or use existing test_menu.txt
+4. Type "rspec rspec.rb" to run the tests
 
 ## Built With
 
